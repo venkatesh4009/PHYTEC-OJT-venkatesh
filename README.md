@@ -1,5 +1,5 @@
 # PHYTEC-OJT-venkatesh
 
-module1 c programs, 
-module2 mcu, 
-module3 linux internals,
+module-1 C_Programs, 
+module-2 MCU, 
+module-3 linux_internals,
